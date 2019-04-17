@@ -163,4 +163,6 @@ footer {
 
 @media only screen and (max-width: 600px) {
   main .services .list .item-list .service {
-    text-align: center; } }
+    text-align: center; }
+  .contacto .formulario .mapa {
+    margin-top: 20px; } }
