@@ -160,3 +160,7 @@ footer {
   padding: 10px;
   text-align: center;
   color: #f9f9f9; }
+
+@media only screen and (max-width: 600px) {
+  main .services .list .item-list .service {
+    text-align: center; } }
